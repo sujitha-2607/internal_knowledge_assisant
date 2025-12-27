@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+torch
+faiss-cpu
+sentence-transformers
+pymupdf
+langchain-text-splitters
